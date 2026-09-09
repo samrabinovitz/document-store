@@ -82,3 +82,4 @@ public class DocumentStoreImpl implements DocumentStore {
         return this.store.remove(url) != null;
     }
 }
+
